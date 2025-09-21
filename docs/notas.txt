@@ -1,2 +1,0 @@
-Aqui voy a ir anotando cualquier comando que vea junto con su utilidad
-git s
